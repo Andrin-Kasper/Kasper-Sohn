@@ -1,0 +1,13 @@
+#DasGanze
+{
+    position: relative;
+    top: -10px;
+    left: -2px;
+    width: 1483px;
+    height: 1000px;
+    background-image: url("Firefly\ Rubberduck\ with\ captain\ hat\ and\ wooden\ word\ without\ text\ 36963.jpg");
+    align-items: center;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    filter: brightness(0.8);
+}
