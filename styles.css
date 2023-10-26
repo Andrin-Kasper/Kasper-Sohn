@@ -1,4 +1,4 @@
-body
+#body
 {
    background-color: #ffffff; 
 }
@@ -299,22 +299,57 @@ body
    left: 373.5px;
 
 }
+#Footer-Kolonne-2-Stackoverflow
+{
+   font-family:Arial, Helvetica, sans-serif;
+   position: relative;
+   font-size: 15px;
+   bottom: 217px;
+   left: 373.5px;
+   color: black;
+
+}
 
 #Footer-Kolonne3
 {
    font-family: Arial, Helvetica, sans-serif;
    position: relative;
    font-size: 20px;
-   bottom: 192px;
+   bottom: 361px;
    left: 747px;
 
+}
+#Footer-Kolonne-3-Mimir
+{
+   font-family: Arial, Helvetica, sans-serif;
+   position: relative;
+   font-size: 15px;
+   color: black;
+   text-decoration: none;
+   bottom: 430px;
+   width: 200px;
+   height: 35px;
+   left: 747px;
+}
+#Footer-Kolonne-3-Andrin
+{
+   font-family: Arial, Helvetica, sans-serif;
+   position: relative;
+   font-size: 15px;
+   color: black;
+   text-decoration: none;
+   bottom: 533px;
+   width: 200px;
+   height: 35px;
+   left: 747px;
+   
 }
 #Footer-Kolonne4
 {
    font-family: Arial, Helvetica, sans-serif;
    position: relative;
    font-size: 20px;
-   bottom: 236px;
+   bottom: 702.5px;
    left: 1120.5px;
 
 }
@@ -324,7 +359,7 @@ body
    position: relative;
    font-size: 15px;
    left: 1120.5px;
-   bottom: 226px;
+   bottom: 690px;
    width: 200px;
    height: 35px;
 }
@@ -354,6 +389,8 @@ a
    background-position:50% 100%;
    background-repeat: no-repeat;
    transition: .3s linear, background-size .3s .2s linear;
+   
+
 
    
  }
